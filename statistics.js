@@ -26,4 +26,11 @@ function mode(numbers) {
         }
  
     return modes;
+
+    //added some changes
+
+
+
+
+
 }
